@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10785453.svg)](https://doi.org/10.5281/zenodo.10785453)
 # Cryo-EM structures of prokaryotic ligand-gated ion channel GLIC provide insights into gating in a lipid environment
 
 Cryo-EM structures of the GLIC in each state were embedded within bilayer membranes consisting of DOPE, POPS and POPC with 2:1:1 ratio with the CHARMM-GUI Membrane Builder in 11.6 x 11.6 x 15.8 nm3 simulation cells. 
